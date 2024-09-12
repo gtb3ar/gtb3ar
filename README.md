@@ -2,7 +2,7 @@
 
 <h2>⌨️ Software Development Projects:</h2>
 
-- <b>Personal Projects<b>
+- <b>Personal Projects</b>
   - Python
     - [Smart Mirror 🪞]([http;/](https://linkedin.com/in/samuel--pope/))
   - C++
@@ -14,7 +14,7 @@
     - [Application of Machine learning in a virtual enviroment]([http;/](https://linkedin.com/in/samuel--pope/))
   - Java
     - [Database Management System](https://github.com/gtb3ar/Phong-Shaders)
-    - [Medicare Android Application 🪞]([http;/](https://linkedin.com/in/samuel--pope/))
+    - [Medicare Android Application]([http;/](https://linkedin.com/in/samuel--pope/))
   - Python
     - [Database Management System]([http;/](https://linkedin.com/in/samuel--pope/))
   
