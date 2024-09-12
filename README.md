@@ -4,11 +4,22 @@
 
 - <b>Personal Projects<b>
   - Python
-    - [Fill Text]([http;/](https://linkedin.com/in/samuel--pope/))
+    - [Smart Mirror 🪞]([http;/](https://linkedin.com/in/samuel--pope/))
   - C++
-    - Ahh yes
+    - [Phong Shader Ray Tracer 🔦](https://github.com/gtb3ar/Phong-Shaders)
+    - [Simple 2D Games 🏓](https://github.com/gtb3ar/2D-Games)
+    - [Customer Memory Allocator](https://github.com/gtb3ar/2D-Games)
 - <b>University Projects</b>
-  - [Fill text](https://linkedin.com/in/samuel--pope/)
+  - Final Project
+    - [Application of Machine learning in a virtual enviroment]([http;/](https://linkedin.com/in/samuel--pope/))
+  - Java
+    - [Database Management System](https://github.com/gtb3ar/Phong-Shaders)
+    - [Medicare Android Application 🪞]([http;/](https://linkedin.com/in/samuel--pope/))
+  - Python
+    - [Database Management System]([http;/](https://linkedin.com/in/samuel--pope/))
+  
+
+
 
 <h2> 🔗 Connect with me:</h2>
 
