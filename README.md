@@ -10,7 +10,7 @@
 - <b>University Projects</b>
   - [Fill text](https://linkedin.com/in/samuel--pope/)
 
-<h2> ✉️ Connect with me:</h2>
+<h2> 🔗 Connect with me:</h2>
 
 [<img align="left" alt="Sam Pope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
