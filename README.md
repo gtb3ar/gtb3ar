@@ -8,7 +8,8 @@
   - C++
     - [Phong Shader Ray Tracer 🔦](https://github.com/gtb3ar/Phong-Shaders)
     - [Simple 2D Games 🏓](https://github.com/gtb3ar/2D-Games)
-    - [Customer Memory Allocator](https://github.com/gtb3ar/2D-Games)
+    - [Implementation Practice](https://github.com/gtb3ar/CPP_Projects)
+      <br />-*Bitmaps, Customer Memory Allocator, Linked Lists & File IO*
 - <b>University Projects</b>
   - Final Project
     - [Application of Machine learning in a virtual enviroment]([http;/](https://linkedin.com/in/samuel--pope/))
