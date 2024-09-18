@@ -15,7 +15,7 @@
     - [Application of Machine learning in a virtual enviroment]([http;/](https://linkedin.com/in/samuel--pope/))
   - Java
     - [Database Management System](https://github.com/gtb3ar/Phong-Shaders)
-    - [Medicare Android Application]([http;/](https://linkedin.com/in/samuel--pope/))
+    - [Medicare Android Application](https://github.com/gtb3ar/Medicare)
   - Python
     - [Database Management System]([http;/](https://linkedin.com/in/samuel--pope/))
   
