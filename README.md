@@ -4,7 +4,7 @@
 
 - <b>Personal Projects</b>
   - Python
-    - [Smart Mirror 🪞]([http;/](https://linkedin.com/in/samuel--pope/))
+    - [Smart Mirror 🪞](https://github.com/gtb3ar/Smart-Mirror)
   - C++
     - [Phong Shader Ray Tracer 🔦](https://github.com/gtb3ar/Phong-Shaders)
     - [Simple 2D Games 🏓](https://github.com/gtb3ar/2D-Games)
