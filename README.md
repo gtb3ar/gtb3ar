@@ -12,7 +12,7 @@
       <br />-*Bitmaps, Customer Memory Allocator, Linked Lists & File IO*
 - <b>University Projects</b>
   - Final Project
-    - [Application of Machine learning in a virtual enviroment]([http;/](https://linkedin.com/in/samuel--pope/))
+    - [Application of Machine learning in a virtual enviroment](https://linkedin.com/in/samuel--pope/)
   - Python
     - [Database Management System](https://github.com/gtb3ar/PythonDBMS)
   - Java
