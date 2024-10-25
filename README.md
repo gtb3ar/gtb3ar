@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam!👋 (Under Development)<br/><a>An aspiring Software Engineer graduate.</a></h1>
+<h1>Hi, I'm Sam!👋<br/><a>An aspiring Software Engineer graduate.</a></h1>
 
 <h2>⌨️ Software Development Projects:</h2>
 
